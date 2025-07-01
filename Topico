@@ -1,0 +1,25 @@
+FreeNas11: é uma solução Open Source voltado para o armazenamento em rede.
+Funciona como um NAS (Network Attached Storage)
+
+# O FreeNas 11: é uma forma simples de criar um local centralizado e facilmente acessivel para seus dados, criar uma VM ou adicionar funcionalidades através de plugins.
+
+# Topico treinamento
+1. Confeção do Ambiente de laboratorio com virtualbox
+2. Download instalação do FreeNas 11;
+3. Overview geral da interface de gerenciamento WEB do FreeNas 11
+4. Overview da interface de linha de comando (CLI)
+5. Aplicação de atualizações (Updates)
+6. Ajustes nas configurações globais do FreeNAS 11 (Hostname, Timezone, NTP...etc)
+7. Configuração de rede
+8. Criação de volumes
+10. Criação de compartilhamentos do tipo SMB/CIFS (Windows)
+11. Criação de compartilhamentos do tipo NFS (Unix/Linux)
+12. Criação de compartilhamentos do tipo iSCSI
+13. Criação de compartilhamentos do WEBDAV
+14. Backup e Restore das configurações
+
+# Aptidão:
+- Instalação e configuração do FreeNas;
+- Navegar na interface de gerenciamento WEB da ferramenta
+- Criar volumes (ZFS Pools), escolhendo o melhor layout para o agrupamento dos discos rigidos com base na necessidade de utilização
+- Criar e configurar compartilhamentos do tipo SMB/CIFSpara atender clientes Windows
